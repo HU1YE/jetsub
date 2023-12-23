@@ -67,23 +67,3 @@ fun MenuItem(
         }
     }
 }
-
-@Composable
-@Preview(showBackground = true)
-fun MenuItemPreview() {
-    MaterialTheme {
-        MenuItem(
-            menu = Menu(
-                R.drawable.kaos2,
-                "Kaos Navy",
-                R.string.category_redbull,
-                "Rp 158.000",
-                ""
-            ),
-            onClick = {
-
-            },
-            modifier = Modifier.padding(8.dp)
-        )
-    }
-}
