@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">jetsub</string>
+    <string name="placeholder_search">Cari Driver</string>
+    <string name="category_all">All</string>
+    <string name="category_redbull">Red Bull</string>
+    <string name="category_astonmartin">Aston Martin</string>
+    <string name="category_mclaren">Mclaren</string>
+    <string name="category_mercedes">Mercedes</string>
+    <string name="category_alpine">Alpine</string>
+    <string name="category_haas">Haas</string>
+    <string name="category_williams">Williams</string>
+    <string name="category_alphatauri">Alpha Tauri</string>
+    <string name="category_ferarri">Ferarri</string>
+    <string name="category_scuderia">Scuderia</string>
+    <string name="section_category">Kategori</string>
+    <string name="section_standings_menu">Driver Standings</string>
+    <string name="section_best_driver">List Driver</string>
+    <string name="menu_home">Beranda</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profil</string>
+</resources>
